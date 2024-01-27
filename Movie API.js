@@ -1,3 +1,6 @@
+//Name: Abuchi Robert
+//Path: Web3
+//Assignment: Movie Renting API
 class Movie {
   constructor(title, genre, availableCopies) {
     this.title = title;
