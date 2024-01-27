@@ -1,3 +1,7 @@
+//Name: Abuchi Robert
+//Path: Web3
+//Descriptive Statistics
+
 class DescriptiveStatistics {
   constructor(data) {
     this.data = data;
